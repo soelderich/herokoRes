@@ -1,9 +1,9 @@
 {
   "name": "simple-list-server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
@@ -12,5 +12,14 @@
     "cors": "^2.8.5",
     "express": "^4.17.1",
     "mariadb": "^2.4.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JavaScript-Academy-Summer-2020DE-Ham/cws-simple-list-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JavaScript-Academy-Summer-2020DE-Ham/cws-simple-list-server/issues"
+  },
+  "homepage": "https://github.com/JavaScript-Academy-Summer-2020DE-Ham/cws-simple-list-server#readme",
+  "description": ""
 }
